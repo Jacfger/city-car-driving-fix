@@ -1,0 +1,3 @@
+LIBRARY ccd_vr_hook
+EXPORTS
+    DetourFinishHelperProcess @1 NONAME

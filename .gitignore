@@ -1,0 +1,6 @@
+# Publish the fix sources, not game files or local build artifacts.
+/*
+!/.gitignore
+!/VR_FINDINGS.md
+!/vr-shim/
+/vr-shim/build/

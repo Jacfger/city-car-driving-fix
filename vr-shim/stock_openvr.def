@@ -1,0 +1,5 @@
+LIBRARY openvr_api
+EXPORTS
+    VR_GetGenericInterface
+    VR_InitInternal
+    VR_ShutdownInternal
